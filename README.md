@@ -192,4 +192,4 @@ Frontend/
 
 ## 8. Contact
 
-For support, open an issue or contact [your-email@example.com](mailto:hgella91@gmail.com).
+For support, open an issue or contact [hgella91@gmail.com](mailto:hgella91@gmail.com).
